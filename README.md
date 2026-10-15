@@ -1,16 +1,37 @@
-## Hi there 👋
-
-<!--
-**Nemesis2519/Nemesis2519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+                                               ..,.oooE777999V(;
+                                  ...oooP779090(;''       ''''  I
+                    ...ooB777979V;;''       .....=v}}=}=}=}}v==  5            About me
+               97?(;''     .........<<vvvv<vvvvvvvvvvvvvvv}}}}v} L            ---------------------------------------------
+               ,   ..;;`;;;;;<;<<<<<<<<<<<<<v<vvvvvvvvvv}vv}}}}}. 1           > Cybersecurity & Networking Graduate
+               b (:::``;;;;;;;;;;;<;<;<<<<<<<<<<<<v<v<vvvvvvvv}v}, E
+               `J ::.:.:.``;;;;;;;;;;;<;;;<<<<<<<<<<<<v<v<vvvvvvvx L          > Certifications:
+                L  :. :.:.:.:.``;;;;;;;;;;;;;;<;<<<<<<<<<<v<<v<vv<( T           * eJPTv2
+                `> .    . .:.:.:.:.`:;``;;;;;;;;<;;;<;<<<<<<<<<<<v< >           * CCNA 1, 2, & 3 (ITN, SRWE, ENSA)
+                 b ;           . : .:.:.:.`;;;;;;;;;;;<;;<;<<<<<<<<, I
+                 `,`               . : :.:.:.:.`.`;;;;;;;;;;;;<;<;<<. 5       > Focus Areas:
+                  b ;                    . : .:.:.:.`;;;;;;;;;;;<;<;<: E        * Network Security & Architecture
+                  `,<                         . . .:.:.:.``;;;;;;;;;;. I        * Penetration Testing & Defense
+                   b :                             . . :.:.:.:.:.:.;;;. 5
+                   `>;                                  . .:..:.:.:.`.:  |    ---------------------------------------------
+                    b :                                      . . :.:.:.x T
+                    `,;                                          . . .::  E
+                     b :                                               _  !4
+                     `r :                                   __.__,--,;'))))).
+                      b :                         ___...--'; `))))))))' '' `>!9eOc
+                      `r :              __,--:-;;;)))))))))))'' '' ' ' _. -'-'.`!9Eg.
+                       L : . __.--_--:,)))))))))))'' ' '  _. ._.-'-'-'-'\-'\---\/\ ``Qu.
+                       `,: !x;:)))))))) ')'' ' _ _._-.'\'\_\_-'\''-\'_'\-'\'\ -_\'-\-. 95n.
+                        D` ))))'''  _ .___.-_:/-/\/-_\ /-_, /-,\ \-/_\/\,-\_/-\/-/--' ..v<]9o.
+                      __b :<> -_\._/\,- ,_ -\ _/\-\ _-\ -_/-\,\/,-/\_/-_\'\--' .vvvvvvv}v}}x}]NEo.
+                .ooPO%LOCu  `< `/\_ -:\/_/-/,\/,/-,/_,-/\ :_\:_-:__-'' ...vvvvvvvvvvvvxx}vx}}}}==No
+              .oPO'       `y. `< ~-\ _\/\_,- \ , - ,___..--' .......>>vvvvvvvvx<xvvxx}=x===}~^^   I
+        om3jR&57'          `Ey, `\ `!,\ \-/_/\_---''.......vv>>vvvvvvvvvv)v<xvx=}=<~~^~`       :_yd
+    _.rq8'                    `L, `<_ `--'.......vv<<<<v<<<<x<vv<vvvvxxxx=>~~~`         iuuuaE'
+  .@tTL'                        `y,  `< .-vvv<<<<<<<<<xxvx>vvvvv=>~~~~`         _uuua'''
+.&P'                              `L,  `>>><<<<><>v<vvvvvx~`::`       ::_uuua'''
+                                    `y,  `:F_P:<x>~>^` `        _uuug'
+                                      `L,  ~~`          _uuua''
+                                        `L,:    _uuua''
+                                          `LaE''
+```
